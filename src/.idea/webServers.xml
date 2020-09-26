@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ec19e9a7-ac6f-4c77-947a-02ed5923867b" name="JTCN_base">
+        <fileTransfer accessType="SFTP" host="49.235.247.121" port="6000" sshConfigId="34c46e94-f18d-4ebf-b45a-5304811090a5" sshConfig="zzq@49.235.247.121:6000 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
